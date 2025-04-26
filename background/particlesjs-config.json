@@ -8,16 +8,16 @@
       }
     },
     "color": {
-      "value": "#61e3c3"
+      "value": "#2378b1"
     },
     "shape": {
       "type": "polygon",
       "stroke": {
         "width": 1,
-        "color": "#4e10c2"
+        "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 5
+        "nb_sides": 12
       },
       "image": {
         "src": "img/github.svg",
@@ -26,7 +26,7 @@
       }
     },
     "opacity": {
-      "value": 0.4483802264320143,
+      "value": 0.29969872391438057,
       "random": true,
       "anim": {
         "enable": false,
@@ -36,11 +36,11 @@
       }
     },
     "size": {
-      "value": 20.016974394286354,
+      "value": 20,
       "random": true,
       "anim": {
-        "enable": true,
-        "speed": 30,
+        "enable": false,
+        "speed": 40,
         "size_min": 0.1,
         "sync": false
       }
@@ -48,8 +48,8 @@
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#d65565",
-      "opacity": 0.5047557455400093,
+      "color": "#61e3ac",
+      "opacity": 0.4,
       "width": 1
     },
     "move": {
@@ -76,7 +76,7 @@
       },
       "onclick": {
         "enable": true,
-        "mode": "push"
+        "mode": "repulse"
       },
       "resize": true
     },
