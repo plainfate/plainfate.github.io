@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>生活琐事 on 素命|plainfate</title>
+        <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/</link>
+        <description>Recent content in 生活琐事 on 素命|plainfate</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>素命|plainfate</copyright><atom:link href="http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
