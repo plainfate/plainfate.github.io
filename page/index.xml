@@ -399,16 +399,26 @@
 &lt;h2 id=&#34;关于本站&#34;&gt;关于本站
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;博客框架：Hugo extended 0.142.0&lt;/p&gt;
+&lt;p&gt;博客框架：&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  title=&#34;点开看看吧!&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo extended 0.142.0&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;博客主题：Stack 3.30.0&lt;/p&gt;
+&lt;p&gt;博客主题：&lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  title=&#34;点开看看吧!&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack 3.30.0&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;托管部署：源码托管于 Github 网站部署于 Github Pages&lt;/p&gt;
+&lt;p&gt;托管部署：源码托管于 &lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  title=&#34;点开看看吧!&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt; 网站部署于 &lt;a class=&#34;link&#34; href=&#34;https://pages.github.com/&#34;  title=&#34;点开看看吧!&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github Pages&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;评论系统：giscus&lt;/p&gt;
+&lt;p&gt;评论系统：&lt;a class=&#34;link&#34; href=&#34;https://giscus.app/zh-CN&#34;  title=&#34;点开看看吧!&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;giscus&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
